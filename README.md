@@ -15,7 +15,8 @@ Welcome to my Github 👋
 
 <div align="left">
   
-I've been working as a **frontend developer since 2018** when I did my career change to the IT field via {reprograma}'s Bootcamp. ✨ Now I'm also pursuing my second degree in Information Systems. I see myself as a passionate learner who is always looking to improve my knowledge of computer science and programming 💻.
+I've been working as a **frontend developer since 2018**. I did my career change to the IT field via {reprograma}'s Bootcamp. ✨ I'm also pursuing my second degree in Information Systems. I see myself as a passionate learner and someone who loves Computer science, programming, and technology 💻. I strive for a more diverse and inclusive environment for underrepresented groups 💡.
+&nbsp; 
   
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" />
@@ -23,16 +24,19 @@ I've been working as a **frontend developer since 2018** when I did my career ch
 
 and also...
   
-⚙️ I'm working professionally with Angular and TypeScript for the last two years
+⚙️ I've 2 years' experience with Angular and Typescript
 
 🌱 I’m studying and creating lot's of Reactjs projects
 
 💬 You are welcome to contribute to my repositories 🤓
-
-⚡ I'm passionate about learning languages and embroidering.
-
-👩‍💻 As a #WomanInTech, I strive for a diverse and inclusive environment for underrepresented groups 💡 
   
+👩‍💻 Nowadays i'm a bootcamp tech lead @ {reprograma}
+
+⚡ I'm passionate about puzzles and embroidering
+  
+💡 I speak 4 languages (sort of)
+
+  &nbsp; 
   --- 
   
   ### my stack (so far): 
