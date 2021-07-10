@@ -15,27 +15,27 @@ Welcome to my Github 👋
 
 <div align="left">
   
-I've been working as a **frontend developer since 2018** when I did my career change to the IT field via {reprograma}'s Bootcamp. ✨ Now I'm also pursuing my second degree in Information Systems. I see myself as a passionate learner who is always looking to improve my knowledge of computer science and programming 💻. As a #WomanInTech, I strive for a diverse and inclusive environment for underrepresented groups 💡 
+I've been working as a **frontend developer since 2018** when I did my career change to the IT field via {reprograma}'s Bootcamp. ✨ Now I'm also pursuing my second degree in Information Systems. I see myself as a passionate learner who is always looking to improve my knowledge of computer science and programming 💻.
   
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/bn7hlyp0Cmcg0/source.gif" />
   
 
-and...
+and also...
   
-👩🏻‍💼 I'm working professionally with Angular and TypeScript for the last two years
+⚙️ I'm working professionally with Angular and TypeScript for the last two years
 
 🌱 I’m studying and creating lot's of Reactjs projects
 
 💬 You are welcome to contribute to my repositories 🤓
 
-🧝‍♀️ My 2021 Goal is to share my tech knowledge 
-
 ⚡ I'm passionate about learning languages and embroidering.
+
+👩‍💻 As a #WomanInTech, I strive for a diverse and inclusive environment for underrepresented groups 💡 
   
   --- 
   
-  ### my stack: 
+  ### my stack (so far): 
   
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -58,4 +58,7 @@ and...
   
   
 </div>
+
+--- 
+
 
