@@ -18,7 +18,7 @@ Welcome to my Github 👋
 I've been working as a **frontend developer since 2018** when I did my career change to the IT field via {reprograma}'s Bootcamp. ✨ Now I'm also pursuing my second degree in Information Systems. I see myself as a passionate learner who is always looking to improve my knowledge of computer science and programming 💻.
   
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/bn7hlyp0Cmcg0/source.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" />
   
 
 and also...
