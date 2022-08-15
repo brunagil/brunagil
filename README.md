@@ -3,8 +3,6 @@ Welcome to my Github 👋
 
 <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=brunagil" alt="visitor badge"/>
-  <img src="https://badges.pufler.dev/years/brunagil" alt="years in github" />
-  <img src="https://badges.pufler.dev/repos/brunagil" alt="public repositories in github" />
 </p>
 
 ### let's connect?
