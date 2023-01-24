@@ -13,22 +13,18 @@ Welcome to my Github 👋
 
 <div align="left">
   
-I've been working as a **frontend developer since 2018**. I did my career change to the IT field via {reprograma}'s Bootcamp. ✨ I'm also pursuing my second degree in Information Systems. I see myself as a passionate learner and someone who loves Computer science, programming, and technology 💻. I strive for a more diverse and inclusive environment for underrepresented groups 💡.
+I've been working as a **frontend developer since 2018**. I did my career change to the IT field with {reprograma}'s Bootcamp. ✨ I see myself as a passionate learner and someone who loves Computer science, technology and politics 💻. I strive for a more diverse and inclusive environment for underrepresented groups in any company I work on 💡. I am currently living in Berlin, Germany 🇩🇪
 &nbsp; 
   
-
+  💬 Please feel free to contribute to my repositories 🤓
+  
+&nbsp;
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" />
   
 
 and also...
   
-⚙️ I've 2 years' experience with Angular and Typescript
-
-🌱 I’m studying and creating lot's of Reactjs projects
-
-💬 You are welcome to contribute to my repositories 🤓
-  
-👩‍💻 Nowadays i'm a bootcamp tech lead @ {reprograma}
+⚙️ I've 2 years' experience with Angular, React and Typescript
 
 ⚡ I'm passionate about puzzles and embroidering
   
