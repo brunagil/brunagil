@@ -24,7 +24,7 @@ I've been working as a **frontend developer since 2018**. I did my career change
 
 and also...
   
-⚙️ I've 2 years' experience with Angular, React and Typescript
+⚙️ I've 4 years' experience with Angular, React and Typescript
 
 ⚡ I'm passionate about puzzles and embroidering
   
