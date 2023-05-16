@@ -1,9 +1,6 @@
 ### Olá, Hi, Salut, Hallo, 你好! 
 Welcome to my Github 👋 
 
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brunagil" alt="visitor badge"/>
-</p>
 
 ### let's connect?
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/brunaggil/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:brunagil.dev@gmail.com)
