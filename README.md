@@ -20,15 +20,6 @@ I've been working as a **frontend developer since 2018**. I did my career change
   
 &nbsp;
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" />
-  
-
-and also...
-  
-⚙️ I've 4 years' experience with Angular, React and Typescript
-
-⚡ I'm passionate about puzzles and embroidering
-  
-💡 I speak 4 languages (sort of)
 
   &nbsp; 
   --- 
