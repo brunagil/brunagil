@@ -10,7 +10,7 @@ Welcome to my Github 👋
 
 <div align="left">
   
-I've been working as a **frontend engineer since 2018**. After working for 2 years in the business consulting field, I did my career transition to the IT field through {reprograma}'s Bootcamp. ✨ I'm passionate learner and someone who loves Computer science, technology and politics 💻. I strive for a more diverse and inclusive environment for underrepresented groups in any company I work on 💡. I am currently living in Berlin, Germany 🇩🇪
+After working for 2 years in the business consulting field, I did my career transition to the IT field through {reprograma}'s Bootcamp. I've been working professionally as a **frontend engineer since 2019**. ✨ I'm passionate learner and someone who loves Computer science, technology and politics 💻. I strive for a more diverse and inclusive environment for underrepresented groups in any company I work on 💡. Currently based in Berlin, Germany 🇩🇪
 &nbsp; 
   
   💬 Please feel free to contribute to my repositories 🤓
